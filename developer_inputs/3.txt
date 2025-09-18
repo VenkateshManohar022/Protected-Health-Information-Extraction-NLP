@@ -1,0 +1,33 @@
+Patient: 778899334 DH
+MRN: 223344
+Record Number: 667788
+Accession No: ACC-3344-Z
+Patient Name: Emily Davis
+Age: 29 years old
+Unit Number: 712-33-56
+Address: 432 Willow Avenue, Apt 5C, Chicago, IL
+Phone: 312-555-3344
+Email: emily.davis@example.com
+SSN: 987-65-4321
+Attending Physician: Dr. Anthony Walker, M.D.
+
+Admission Date: 03/05/2023 07:45 AM
+Discharge Date: 03/12/2023 05:15 PM
+
+HOSPITAL COURSE:
+Emily Davis admitted for severe migraine headaches on 03/05/2023. Labs and MRI performed. Symptoms improved with IV hydration and medications. Patient monitored until discharge on 03/12/2023. Vital signs stable throughout hospitalization.
+
+Consultations:
+- Neurology: Dr. Anthony Walker, M.D.
+- Pain Management: Reviewed medications.
+
+Follow-up appointments:
+- Neurology: 03/20/2023
+- Primary Care: 03/25/2023
+
+DISCHARGE ORDERS:
+Activity: Normal activities resumed.
+Diet: Regular diet.
+Medications: Sumatriptan 50 mg PRN, Ibuprofen 400 mg TID.
+
+[ report_end ]

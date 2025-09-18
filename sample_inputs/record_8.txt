@@ -1,0 +1,50 @@
+184816901 EH
+28383292
+925525
+7/16/2000 12:00:00 AM
+breast cancer
+DIS
+Admission Date :
+07/16/2000
+Report Status :
+Discharge Date :
+07/17/2000
+****** DISCHARGE ORDERS ******
+BELTTLANDJARREUTZCANTS , IEHETLEO 186-21-14-1 Z59
+Room :
+06K-173
+Service :
+OSS
+DISCHARGE PATIENT ON :
+07/17/00 AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+PERCOCET 1-2 TAB PO Q4H PRN pain
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+After Appt with local physician
+FOLLOW UP APPOINTMENT ( S ) :
+Dr Bran will schedule , No Known Allergies
+ADMIT DIAGNOSIS :
+breast cancer
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) breast cancer
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+07/16/00 YONKAYLESZINEGACH , LI L. , M.D. LT.
+SINGLE MASTECTOMY OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+admitted for N / V after simple mastectomy .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+KOTEJESCZUK , DOA M.D. - SURGERY ( HA68 ) 07/17/00 09:40 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]

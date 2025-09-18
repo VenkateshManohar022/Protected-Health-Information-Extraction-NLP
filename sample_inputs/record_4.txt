@@ -1,0 +1,88 @@
+887028160 EH
+99953662
+327468
+6/7/1994 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+06/07/1994
+Report Status :
+Signed
+Discharge Date :
+06/16/1994
+DISCHARGE DIAGNOSIS :
+RIGHT BICONDYLAR TIBIAL PLATEAU FRACTURE .
+HISTORY OF PRESENT ILLNESS :
+Ms. First is an otherwise healthy 32 year old female attorney who was vacationing at Dacorpston when she fell off her moped at a speed of approximately 25 miles per hour .
+She remembers the accident with no loss of consciousness .
+She landed on her right knee and noted immediate pain and swelling .
+She was taken by ambulance to Hasring Healthcare where she had plain films that revealed a comminuted bicondylar tibial plateau fracture on the right .
+She was transferred to the Ver Medical Center for further evaluation and treatment .
+PAST MEDICAL HISTORY :
+Unremarkable .
+PAST SURGICAL HISTORY :
+Unremarkable .
+CURRENT MEDICATIONS :
+None .
+ALLERGIES :
+Patient has no known drug allergies .
+PHYSICAL EXAMINATION :
+On admission was significant for a very anxious appearing young woman in a moderate amount of pain .
+HEENT :
+Examination showed pupils equally round and reactive to light and accommodation and oropharynx was benign .
+NECK :
+Supple with full range of motion .
+LUNGS :
+Clear bilaterally .
+HEART :
+Regular rate and rhythm with normal S1 and S2 and no murmurs , rubs , or gallops .
+ABDOMEN :
+Soft , non-tender , and non-distended .
+EXTREMITIES :
+Her right proximal leg was tender with tense right calf but 2+ dorsalis pedis and posterior tibial pulses , sensation was intact throughout the right lower extremity including the first web space , and motor function was 5/5 in the foot including extensor hallucis longus , tibialis anterior , peroneals , and gastrocnemius .
+LABORATORY EXAMINATION :
+Patient had films from an outside hospital which revealed a comminuted bicondylar tibial plateau fracture on the right as well as a right femur and tibiofibular films which were within normal limits .
+HOSPITAL COURSE :
+Patient was admitted and on hospital day number two , had a CT scan to further characterize her right bicondylar tibial plateau fracture .
+She was kept elevated in a Bohler frame to decrease swelling before surgery .
+On hospital day number three , the patient was taken to the Operating Room where she underwent open reduction and internal fixation of her right bicondylar tibial plateau fracture with lateral and medial fixation .
+Please refer to the Operative Summary for a detailed description of this procedure by Dr. Flossang Be , the attending physician for her surgery .
+Post-operatively , the patient had a significant amount of swelling and her leg was kept elevated in a Bohler frame and also in a knee immobilizer .
+She was followed closely for evidence of post-operative compartment syndrome and underwent neurovascular checks q.2h. by the nursing staff and q.4-6h. by the physician on-call .
+On post-operative day two , the dressing was taken down , the wound was clean , dry , and intact , and patient was noted to be fully neurovascularly intact including full motor and sensory function in her right foot .
+Her calf remained soft and non-tender .
+Post-operative hematocrit was 24.0 .
+She continued to be elevated in the Bohler frame and followed for risk of compartment syndrome .
+Post-operative day number three , the patient developed a post-operative fever to 101.4 .
+She was pancultured , the results of which were all negative at the time of discharge .
+Patient also became extremely anxious and given her history of bipolar disease as reported by her mother , a Psychiatry consultation was obtained .
+The Psychiatry staff felt that the patient 's symptoms were consistent with normal anxiety relating to post-operative care and no further medication or treatment was recommended .
+Patient was continued on Ancef post-operatively and had some evidence of erythema of her right thigh which resolved on post-operative day number five .
+On post-operative day number two , the patient was started in a continuous passive motion device and by the time of discharge , was undergoing range of motion from 0 to 78 degrees with minimal discomfort .
+She also began radiating non-weight bearing on her right lower extremity with the assistance of crutches with the help of Physical Therapy .
+On the day prior to discharge , the patient was ambulating non-weight bearing on her right lower extremity and able to stair climb with crutches with the assistance of Physical Therapy .
+On post-operative day number six , the patient reported some calf tenderness .
+Lower extremity non-invasive studies were obtained which revealed no evidence of deep venous thrombosis .
+Patient was undergoing Coumadin for deep venous thrombosis prophylaxis throughout her post-operative course .
+Patient is discharged to home on post-operative day number eight ambulating non-weight bearing on the right lower extremities with the assistance of crutches , able to stair climb , and tolerating a regular diet with a minimal amount of pain of the right lower extremity .
+She will continue to undergo Physical Therapy and CPM at home and she has a home CPM device arranged for her .
+DISPOSITION :
+DISCHARGE MEDICATIONS :
+Those on admission as well as Coumadin 1 mg p.o. q.h.s. or as directed by PT draws which will occur q.Monday and Thursday at home , also Percocet one to two tablets q.4-6h. p.r.n. , Colace 100 mg p.o. t.i.d. , and Niferex 150 mg p.o. b.i.d.
+CONDITION ON DISCHARGE :
+Stable .
+She will follow with Dr. Flossang Be in four weeks time at which time she will be six weeks post-operative .
+X-Rays taken at the time of discharge showed a small 1 mm stepoff at the site of the original fracture with no significant change from the post-operative films .
+Dictated By :
+SCHELIEFE BE , M.D. DJ07
+Attending :
+VITA T. DELTAL LINKEKOTEMONES , M.D. GZ9 IM659/8320
+Batch :
+0121
+Index No. LNCO9H3R9O
+D :
+06/15/94
+T :
+06/17/94
+[ report_end ]

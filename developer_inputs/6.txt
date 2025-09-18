@@ -1,0 +1,33 @@
+Patient: 334455667 DH
+MRN: 556677
+Record Number: 990011
+Accession No: ACC-8899-Z
+Patient Name: Isabella Martinez
+Age: 41y
+Unit Number: 715-66-90
+Address: 1010 Oak Street, Apt 7A, Miami, FL
+Phone: 305-555-6677
+Email: isabella.martinez@example.com
+SSN: 567-89-0123
+Attending Physician: Dr. Samuel Peterson, M.D.
+
+Admission Date: 06/15/2022 08:30 AM
+Discharge Date: 06/22/2022 03:00 PM
+
+HOSPITAL COURSE:
+Isabella Martinez admitted with acute appendicitis. CT scan confirmed diagnosis. Laparoscopic appendectomy performed on 06/16/2022. Post-op recovery monitored, vital signs stable.
+
+Consultations:
+- Surgery: Dr. Samuel Peterson, M.D.
+- Nutrition: Post-op dietary counseling.
+
+Follow-up appointments:
+- Surgery: 06/30/2022
+- Primary Care: 07/05/2022
+
+DISCHARGE ORDERS:
+Activity: Light activity.
+Diet: Soft diet first 3 days.
+Medications: Acetaminophen 500 mg q6h, Ibuprofen 400 mg q8h.
+
+[ report_end ]

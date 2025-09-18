@@ -1,0 +1,33 @@
+Patient: 112233445 DH
+MRN: 445566
+Record Number: 889900
+Accession No: ACC-6677-Y
+Patient Name: Sophia Wilson
+Age: 52y
+Unit Number: 714-55-89
+Address: 765 Maple Lane, Apt 6B, Seattle, WA
+Phone: 206-555-4455
+Email: sophia.wilson@example.com
+SSN: 456-78-9012
+Attending Physician: Dr. Kevin Brown, M.D.
+
+Admission Date: 01/20/2023 06:45 AM
+Discharge Date: 01/28/2023 11:15 AM
+
+HOSPITAL COURSE:
+Sophia Wilson admitted for knee replacement surgery. Pre-op evaluation done on 01/20/2023. Surgery performed on 01/21/2023 without complications. Post-op physiotherapy started. Patient discharged on 01/28/2023 with stable vitals.
+
+Consultations:
+- Orthopedics: Dr. Kevin Brown, M.D.
+- Physical Therapy: Instructions provided.
+
+Follow-up appointments:
+- Orthopedics: 02/05/2023
+- Physical Therapy: 02/10/2023
+
+DISCHARGE ORDERS:
+Activity: Gradual weight-bearing.
+Diet: Regular diet.
+Medications: Acetaminophen 500 mg q6h, Ibuprofen 400 mg q8h.
+
+[ report_end ]

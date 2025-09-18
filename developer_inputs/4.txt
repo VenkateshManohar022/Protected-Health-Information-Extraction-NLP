@@ -1,0 +1,33 @@
+Patient: 889900112 DH
+MRN: 334455
+Record Number: 778899
+Accession No: ACC-5566-X
+Patient Name: David Hernandez
+Age: 67y
+Unit Number: 713-44-78
+Address: 890 Pine Street, Apt 4D, San Francisco, CA
+Phone: 415-555-7788
+Email: david.hernandez@example.com
+SSN: 345-67-8901
+Attending Physician: Dr. Rachel Morgan, M.D.
+
+Admission Date: 11/10/2021 08:00 AM
+Discharge Date: 11/18/2021 02:30 PM
+
+HOSPITAL COURSE:
+David Hernandez admitted with shortness of breath and fatigue. Echocardiogram and lab tests performed. Diagnosed with congestive heart failure. Diuretics and medications administered. Condition improved; patient discharged on 11/18/2021.
+
+Consultations:
+- Cardiology: Dr. Rachel Morgan, M.D.
+- Nutrition: Low-sodium diet plan discussed.
+
+Follow-up appointments:
+- Cardiology: 11/30/2021
+- Nutrition: 12/05/2021
+
+DISCHARGE ORDERS:
+Activity: Light walking.
+Diet: Low-sodium diet.
+Medications: Furosemide 40 mg daily, Lisinopril 10 mg daily.
+
+[ report_end ]

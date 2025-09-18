@@ -1,0 +1,14 @@
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_lg
+
+curl -X POST http://127.0.0.1:5003/deid \
+-H "Content-Type: application/json" \
+-d '{"report_text": "Patient John Doe visited on 12-Jan-2020..."}'
+
+
+
+curl -X POST http://127.0.0.1:5003/deid \
+-H "Content-Type: application/json" \
+-d '{
+  "report_text": "Patient John Doe visited on 12-Jan-2020. MRN: 123-45-678, Email: john.doe@example.com. Doctor: Jane Smith, M.D."
+}'

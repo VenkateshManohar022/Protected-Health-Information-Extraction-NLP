@@ -1,0 +1,69 @@
+842528457 DH
+5442917
+13202
+0789643
+06/18/2002 12:00:00 AM
+OB Discharge Summary
+Signed
+DIS
+Report Status :
+Signed OB EMR L and D
+DISCHARGE SUMMARY
+NAME :
+ED FRANCYIE KOTEVERGE
+UNIT NUMBER :
+870-79-47
+ADMISSION DATE :
+20020618
+DISCHARGE DATE :
+20020620
+PRINCIPAL DISCHARGE DIAGNOSIS :
+Normal Vaginal Delivery
+ASSOCIATED DIAGNOSES :
+Abnormal Pap Test ; Dizziness , history of ; Fibrocystic Breast Disease ; Hepatitis B ; Ppd Positive , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+POSTPARTUM THERAPEUTIC PROCEDURES :
+None
+OTHER POSTPARTUM THERAPIES :
+Routine Post Partum Care
+HISTORY AND REASON FOR HOSPITALIZATION :
+Early Labor / Rule Out Labor
+PHYSICAL EXAMINATION :
+HEIGHT NORMAL 66 HEENT NORMAL MOUTH NORMAL NECK NORMAL BREASTS rt breast with a small lump at 9 o'clock area , pt and br center aware and continue q3-4mon F / U by br center NIPPLES NORMAL CHEST NORMAL COR NORMAL ABDOMEN NORMAL EXTREM NORMAL SKIN NORMAL NODES NORMAL VULVA NORMAL VAGINA NORMAL CERVIX 4-5/80/-2/ibow OS NORMAL ADNEXAE NORMAL UTERINE SIZE IN WEEKS 39
+HOSPITAL COURSE ( include complications if any ) :
+This 33 year old Gravida 3 Para 2002 was admitted to the Naliheall County Memorial Hospital Obstetrical service on 06/18/2002 at 07:15 am for the indication ( s ) :
+early labor / rule out labor .
+She delivered a 3036 gram female infant on 06/18/2002 at 02:37 pm with apgar scores of 9 and 9 at one and five minutes respectively at 39.0 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+none .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 06/20/2002 at 01:10 pm in good condition .
+DISCHARGE ORDERS ( medications instructions to patient , follow-up care ) :
+DISCHARGE ACTIVITY :
+No Restrictions
+DISCHARGE DIET :
+No Restrictions
+POSTPARTUM DISPOSITION :
+Home With Self-Care ( Routine Discharge )
+POSTPARTUM CARE SITE :
+Louansouth Medical Center
+POSTPARTUM RETURN APPOINTMENT ( DAYS ) :
+42
+BREAST FEEDING AT DISCHARGE :
+No
+POSTPARTUM RH IMMUNE GLOBULIN :
+Not Indicated
+POSTPARTUM MEASLES / MUMPS/RUBELLA VACCINE :
+Not Indicated
+MEDICATION ( S ) ON DISCHARGE :
+Multivitamins And Folate
+Electronically Signed :
+Freierm , Thiee Caneyma 06/20/2002 1:11:39 PM
+[ report_end ]

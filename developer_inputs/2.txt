@@ -1,0 +1,33 @@
+Patient: 552334112 DH
+MRN: 112244
+Record Number: 556677
+Accession No: ACC-7788-Y
+Patient Name: Michael Thompson
+Age: 45y
+Unit Number: 701-12-45
+Address: 221B Baker Street, Apt 2A, New York, NY
+Phone: 212-555-1122
+Email: michael.thompson@example.com
+SSN: 123-45-6789
+Attending Physician: Dr. Laura Evans, M.D.
+
+Admission Date: 07/12/2022 09:15 AM
+Discharge Date: 07/18/2022 03:30 PM
+
+HOSPITAL COURSE:
+Michael Thompson presented with chest pain on 07/12/2022. Initial evaluation included EKG, chest X-ray, and blood tests. Vital signs: BP 130/85 mmHg, HR 90 bpm, Temp 98.6°F. Coronary angiography performed on 07/13/2022. Patient tolerated procedure well. Post-op recovery uneventful.
+
+Consultations:
+- Cardiology: Dr. Laura Evans, M.D.
+- Nutrition: Dietary guidance provided.
+
+Follow-up appointments scheduled:
+- Cardiology: 07/25/2022
+- Nutrition: 07/20/2022
+
+DISCHARGE ORDERS:
+Activity: Light activity allowed.
+Diet: Heart-healthy diet.
+Medications: Aspirin 81 mg daily, Atorvastatin 20 mg nightly.
+
+[ report_end ]

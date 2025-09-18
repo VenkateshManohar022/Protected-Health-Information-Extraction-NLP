@@ -1,0 +1,63 @@
+561652700 EH
+72023524
+788718
+12/5/1995 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+12/05/1995
+Report Status :
+Signed
+Discharge Date :
+12/09/1995
+DISCHARGE DIAGNOSIS :
+LEFT PALMAR ABSCESS .
+PROCEDURES :
+12-5-95 irrigation and debridement of left palmar abscess .
+HISTORY OF PRESENT ILLNESS :
+This is a 67-year-old gentleman from Congo who has a history of handling seafood , who presented complaining of a two week history of dry palms , and a two days history of left palmar swelling and erythema .
+On the day of admission , he did note purulent drainage from the left palmar area .
+The patient also reports that he felt " febrile " at home , though did not record his temperatures .
+He reports no sensory loss or muscular weakness .
+The swelling he describes was recent in onset and not severe .
+PAST MEDICAL HISTORY :
+None .
+PAST SURGICAL HISTORY :
+None .
+MEDICATIONS ON ADMISSION :
+None .
+ALLERGIES :
+No known drug allergies .
+LABORATORY DATA :
+No admission labs .
+HOSPITAL COURSE :
+The patient was admitted to the diagnosis of left palmar abscess and after appropriate preoperative consent was obtained , on 12-5-95 , underwent an irrigation and debridement of the left palmar abscess .
+Postoperatively the patient remained afebrile and was begun on IV nafcillin with the initial dose given prior to surgery .
+He was continued on the nafcillin throughout his hospital course .
+Cultures from the irrigation and debridement revealed 3+ Staphylococcal aureus , no acid-fast bacillus and no anaerobs seen .
+The bacteria on sensitivities was pan sensitive including nafcillin .
+Prior to discharge , the erythema resolved .
+Occupational Therapy was involved in his rehabilitation and Infectious Disease consultation was obtained which stated that the nafcillin was appropriate coverage .
+The patient 's wound was packed opened with wet-to-dry dressings , and the left hand neurovascular exam remained intact and stable throughout his hospital course .
+DISCHARGE MEDICATIONS :
+Dicloxacillin 500 mg p.o. q.i.d. for ten days .
+DISPOSITION :
+The patient is to be discharged to home with instructions on wound care .
+He was told to change his gauze packing twice daily with plain Nu-Gauze .
+FOLLOW UP :
+He is to follow up in the Hand Surgery Clinic on 12-11-95 .
+CONDITION ON DISCHARGE :
+Good .
+Dictated By :
+VITA LINKEKOTEMONES , M.D. LN33
+Attending :
+FLOSCHEL BRAN , M.D. KV83 RX590/2717
+Batch :
+2186
+Index No. R3PADK2R5U
+D :
+12/09/95
+T :
+12/09/95
+[ report_end ]
